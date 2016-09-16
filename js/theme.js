@@ -1,6 +1,10 @@
 "use strict";
 
 $(function() {
+  var host = "www.kunalmangaraj.com";
+  if ((host == window.location.host) && (window.location.protocol != "https:")) {
+    window.location.protocol = "https";
+  }
   // Back to top
   (function () {
     var $back2top = $("#back2top");
