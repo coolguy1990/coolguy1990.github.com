@@ -4,9 +4,9 @@
   <subtitle>Yet Another Boring Dev Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://localhost:8080/"/>
-  <updated>2016-09-16T06:44:46.032Z</updated>
-  <id>http://localhost:8080/</id>
+  <link href="https://www.kunalmangaraj.com/"/>
+  <updated>2016-09-16T07:08:24.916Z</updated>
+  <id>https://www.kunalmangaraj.com/</id>
   
   <author>
     <name>Kunal Mangaraj</name>
@@ -17,30 +17,32 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://localhost:8080/2016/09/16/hello-world/"/>
-    <id>http://localhost:8080/2016/09/16/hello-world/</id>
+    <link href="https://www.kunalmangaraj.com/2016/09/16/hello-world/"/>
+    <id>https://www.kunalmangaraj.com/2016/09/16/hello-world/</id>
     <published>2016-09-16T06:10:13.000Z</published>
-    <updated>2016-09-16T06:44:46.032Z</updated>
+    <updated>2016-09-16T07:08:24.916Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Helloadada"><a href="#Helloadada" class="headerlink" title="Helloadada"></a>Helloadada</h2><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">echo</span> <span class="string">'testing'</span>;</div></pre></td></tr></table></figure>
+    <content type="html"><![CDATA[<h2 id="Helloadada"><a href="#Helloadada" class="headerlink" title="Helloadada"></a>Helloadada</h2><p>Testing something out</p>
+<figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">echo</span> <span class="string">'testing'</span>;</div></pre></td></tr></table></figure>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Helloadada&quot;&gt;&lt;a href=&quot;#Helloadada&quot; class=&quot;headerlink&quot; title=&quot;Helloadada&quot;&gt;&lt;/a&gt;Helloadada&lt;/h2&gt;&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;
+      &lt;h2 id=&quot;Helloadada&quot;&gt;&lt;a href=&quot;#Helloadada&quot; class=&quot;headerlink&quot; title=&quot;Helloadada&quot;&gt;&lt;/a&gt;Helloadada&lt;/h2&gt;&lt;p&gt;Testing something out&lt;/p&gt;
+&lt;figure clas
     
     </summary>
     
-      <category term="Test" scheme="http://localhost:8080/categories/Test/"/>
+      <category term="Test" scheme="https://www.kunalmangaraj.com/categories/Test/"/>
     
-      <category term="Foo" scheme="http://localhost:8080/categories/Test/Foo/"/>
+      <category term="Foo" scheme="https://www.kunalmangaraj.com/categories/Test/Foo/"/>
     
-      <category term="Bar" scheme="http://localhost:8080/categories/Test/Foo/Bar/"/>
+      <category term="Bar" scheme="https://www.kunalmangaraj.com/categories/Test/Foo/Bar/"/>
     
     
-      <category term="php" scheme="http://localhost:8080/tags/php/"/>
+      <category term="php" scheme="https://www.kunalmangaraj.com/tags/php/"/>
     
-      <category term="sample" scheme="http://localhost:8080/tags/sample/"/>
+      <category term="sample" scheme="https://www.kunalmangaraj.com/tags/sample/"/>
     
   </entry>
   
