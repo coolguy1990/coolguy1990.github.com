@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Crazy Badger&#39;s Blog</title>
+  <subtitle>Yet Another Boring Dev Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://localhost:8080/"/>
+  <updated>2016-09-16T06:44:46.032Z</updated>
+  <id>http://localhost:8080/</id>
+  
+  <author>
+    <name>Kunal Mangaraj</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://localhost:8080/2016/09/16/hello-world/"/>
+    <id>http://localhost:8080/2016/09/16/hello-world/</id>
+    <published>2016-09-16T06:10:13.000Z</published>
+    <updated>2016-09-16T06:44:46.032Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Helloadada"><a href="#Helloadada" class="headerlink" title="Helloadada"></a>Helloadada</h2><figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">echo</span> <span class="string">'testing'</span>;</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Helloadada&quot;&gt;&lt;a href=&quot;#Helloadada&quot; class=&quot;headerlink&quot; title=&quot;Helloadada&quot;&gt;&lt;/a&gt;Helloadada&lt;/h2&gt;&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;
+    
+    </summary>
+    
+      <category term="Test" scheme="http://localhost:8080/categories/Test/"/>
+    
+      <category term="Foo" scheme="http://localhost:8080/categories/Test/Foo/"/>
+    
+      <category term="Bar" scheme="http://localhost:8080/categories/Test/Foo/Bar/"/>
+    
+    
+      <category term="php" scheme="http://localhost:8080/tags/php/"/>
+    
+      <category term="sample" scheme="http://localhost:8080/tags/sample/"/>
+    
+  </entry>
+  
+</feed>
